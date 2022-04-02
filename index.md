@@ -1,4 +1,4 @@
-# Fusion 2022
+# BikeX Fusion 2022
 
 [English Version](#English)
 
@@ -9,7 +9,7 @@ Wer hat Lust gemeinsam mit uns zur Fusion mit Fahrrad zu fahren?
 Auch in diesem Jahr wollen wir useren Beitrag dazu leisten keine übervollen, stickigen Züge/ Busse zu provozieren.
 Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das darüber hinaus auch noch beinahe CO2-neutral ist. Somit bieten wir in diesem Jahr eine geführte Fahrradtour für die Anreise zum Fusion Festival an:
 
-- Donnerstagfrüh, den 30.7. um 10 Uhr geht es vom [S Bhf Oranienburg](https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9659.042250505412!2d13.2484812!3d52.7545548!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1b6eb19d488c36eb!2sOranienburg!5e0!3m2!1sde!2sde!4v1648799885382!5m2!1sde!2sde) aus los. Die Strecke ist etwa 85 km lang!
+- Donnerstagfrüh, den 30.7. um 10 Uhr geht es vom [S Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) aus los. Die Strecke ist etwa 85 km lang!
 
 Die Gruppe wird von drei erfahrenen Radler*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
 Oranienburg - Fusion: [GPX](assets/routes/Berlin-Fusion.gpx)
