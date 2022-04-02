@@ -33,40 +33,26 @@ Oranienburg - Fusion: [GPX](assets/routes/Oranienburg-Fusion.gpx)
 ## <a name="English"></a> English
 [Short Version](#short)
 
-If you have purchased a bicycle ticket, we would like to encourage you to begin the trip to the parallel universe by bicycle. By "you" we especially mean those of you who until now thought that "travelling by bicycle" means travelling to Nauen by train and then cycling the last bit. Especially in this very different year, however, it would be very important to us not to provoke overcrowded, stuffy trains.
+Who wants to join us to ride with a bicycle to the Fusion festival?
+Especially in this very different year, however, it would be very important to us not to provoke overcrowded, stuffy trains and busses.
+That’s why we have come up with a medium-sporty event in a class of its own that is also almost CO2-neutral. We are offering two guided bike tour for the journey:
 
-That's why we have come up with a medium-sporty event in a class of its own that is also almost CO2-neutral. For the first time, we are offering two guided bike tours for the journey: 
-- On Friday morning we will set off from [Blochplatz near S Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590). The route is about 45 km long. 
-- Alternatively, on Friday afternoon we will accompany you on an even shorter route. From [S-Bahn station Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) it's only 24 km to happiness.
- 
-Each group will be accompanied by two experienced to Grünefeld and back-cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. Maps.me, for example, is a good app with offline map material for Brandenburg's dead spots.
+- Thursday morning we will set off from[S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828). The route is about 85 km long.
 
-Berlin - Nation: [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-NoG.gpx)  
-Hennigsdorf - Nation: [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
+The group will be accompanied by three experienced cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. Maps.me, for example, is a good app with offline map material for Brandenburg’s dead spots.
+Oranienburg - Fusion: [GPX](assets/routes/Oranienburg-Fusion.gpx)
 
-**"I'm not that sporty!"** you might be thinking. We say: Yes, you are! Together as a group we ride at a leisurely pace, taking pee/drink and short rest breaks wherever necessary and desirable. We want to experience at least a pleasant, at best an ultra-fun tour together, not a world-class performance in record time. 
+**“I’m not that sporty!”** you might be thinking. We say: Yes, you are! Together as a group we ride at a leisurely pace, taking pee/drink and short rest breaks wherever necessary and desirable. We want to experience at least a pleasant, at best an ultra-fun tour together, not a world-class performance in record time.
 
-**"But I always do a world-class performance in record time"**  we hear you say right there in the back. You can! We publish our routes beforehand in various formats. If you want to go fast, find a buddy and hit the road when it gets too slow for you. 
+**“But I always do a world-class performance in record time”** we hear you say right there in the back. You can! We publish our routes beforehand in various formats. If you want to go fast, find a buddy and hit the road when it gets too slow for you.
 
-**"But how will I carry my luggage?"**, you might be asking yourself. We understand. Especially on the way there, the luggage situation is often a bit more voluminous. Therefore: For those registered tour participants without professional luggage carrying equipment on their bikes, we will organise a luggage transporter that will take one large piece of luggage and a tent to the nation so that it's just you and the lightness on the bike. Please understand that we cannot offer this service on the way back. We hope that by then you will have either drunk your stuff or found a place for it in the cars of your reality escape helper community.
-
-**"Surely that costs extra!"**, we can hear you shouting. But no! It's free! We're going anyway and we'd love to have you with us :)
-
-Please note the following so that we can all have a relaxed journey:
-- Register on the following form _until thursday, 22.7. 12:00_ if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [Nation bike tour registration](https://docs.google.com/forms/d/e/1FAIpQLSc1iLwtnX0_UrH54_iTZacpK8icAXGgiJOj23Npgyox1CRlNw/viewform)
-- Label your luggage with your name and address.
-- Do not bring more than 1 large piece of luggage + tent for the luggage shuttle. Additional space would be missing for other travellers.
-- Check the roadworthiness of your transport device before departure. We have repair kits with us for emergencies, but would rather move together towards escaping reality than first making your bike fit for spring.
+**“But how will I carry my luggage?”**, you might be asking yourself. We understand. Especially on the way there, the luggage situation is often a bit more voluminous. Therefore: Ask some friends if they can carry luggage for you. If you still want to bring your own luggage please pack very minimalistic so that we can make the 85 km with it. 
 
 ### <a name="short"></a> Short Version
 **"This is all too much text for me!"** We even thought of you! Here's the short version again:
-- Cycling to the nation together
-- Friday 10:30, 45 km from [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) at S+U Gesundbrunnen
-- Friday 15:00, 24 km from [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S Hennigsdorf
-- Register _until thursday, 22.7. 12:00_ at: [Nation bike tour registration](https://docs.google.com/forms/d/e/1FAIpQLSc1iLwtnX0_UrH54_iTZacpK8icAXGgiJOj23Npgyox1CRlNw/viewform)
-- We can transport up to 1 tent + 1 piece of luggage to Grünefeld. There is no return transport.
-- Label your luggage with your name and address.
-- Leisurely pace. We don't race and we stay with the slowest riders.
-- If you have any questions please join our Telegram group: [https://t.me/joinchat/OOwbQd5xRctiMTYy](https://t.me/joinchat/OOwbQd5xRctiMTYy)
+- Cycling to the fusion together
+- We meet Thursday 10:00 am at S Bhf Oranienburg (https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
+- Route will be approximatly 85 km
+- If you have any questions please join our Signal group: https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9
 
 **Get going with us! We look forward to seeing you.**
