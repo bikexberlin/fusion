@@ -6,53 +6,29 @@
 [Kurzfassung](#Kurzfassung)
 
 Wer hat Lust gemeinsam mit uns zur Fusion mit Fahrrad zu fahren? 
-Auch in diesem Jahr wollen wir useren Beitrag dazu leisten keine übervollen, stickigen Züge/ Busse zu provozieren.
-Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das darüber hinaus auch noch beinahe CO2-neutral ist. Somit bieten wir in diesem Jahr eine geführte Fahrradtour für die Anreise zum Fusion Festival an:
+Auch in diesem Jahr wollen wir unseren Beitrag dazu leisten keine übervollen, stickigen Züge und Busse zu provozieren.
+Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das darüber hinaus auch noch beinahe CO2-neutral ist. Somit bieten wir in diesem Jahr eine geführte Fahrradtour für die Anreise zum Fusion Festival :
 
-- Donnerstagfrüh, den 30.7. um 10 Uhr geht es vom [S Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) aus los. Die Strecke ist etwa 85 km lang!
+- Donnerstagfrüh, den 30.7. um 10 Uhr geht es vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) aus los. Die Strecke ist etwa 85 km lang!
 
 Die Gruppe wird von drei erfahrenen Radler*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
-Oranienburg - Fusion: [GPX](assets/routes/Berlin-Fusion.gpx)
+Oranienburg - Fusion: [GPX](assets/routes/Oranienburg-Fusion.gpx)
 
+**“So sportlich bin ich nicht!”**, zweifelt ihr jetzt vielleicht. Wir sagen: Doch, bestimmt! Gemeinsam als Gruppe fahren wir in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit.
 
+**“Ich fahre aber immer Meisterleistung in Rekordzeit”** Kannste! Wir veröffentlichen unsere Strecken vorher in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir ne*n Buddy und hau rein, wenn’s dir bei uns zu langsam wird.
 
-Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das darüber hinaus auch noch beinahe CO2-neutral ist. Somit bieten wir in diesem Jahr erstmalig zwei geführte Fahrradtouren für die Anreise an: 
-- Am Freitagfrüh geht es vom [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S Gesundbrunnen aus los. Die Strecke ist etwa 45 km lang. 
-- Am Freitagnachmittag begleiten wir euch alternativ auf einer noch deutlich kürzeren Strecke. Vom [S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) aus sind es nur noch läppische 24 km bis ins Glück.
- 
-Jede Gruppe wird von zwei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
-
-Berlin - Nation: [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-NoG.gpx)  
-Hennigsdorf - Nation: [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
-
-
-**"So sportlich bin ich nicht!"**, zweifelt ihr jetzt vielleicht. Wir sagen: Doch, bestimmt! Gemeinsam als Gruppe fahren wir in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit. 
-
-**"Ich fahre aber immer Meisterleistung in Rekordzeit"** wird doch da hinten direkt irgendwo losgeningelt. Kannste! Wir veröffentlichen unsere Strecken vorher in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir ne\*n Buddy und hau rein, wenn's dir bei uns zu langsam wird. 
-
-**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransporter, der euch ein großes Gepäckstück und ein Zelt zur Nation fährt, damit ihr den Rücken frei habt für Wind. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann wahlweise ausgetrunken habt oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
-
-**"Das kostet doch sicher extra!"**, hören wir euch förmlich rufen. Aber nee! Ist gratis! Wir fahren eh und haben euch gern mit dabei :)
-
-Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
-- Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen bis zum _Donnerstag, 22.7. 12:00_ eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können: [Nation Fahrradtour Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSc1iLwtnX0_UrH54_iTZacpK8icAXGgiJOj23Npgyox1CRlNw/viewform)
-- Beschriftet euer Gepäck mit Namen und Adresse. 
-- Bringt nicht mehr als 1 großes Gepäckstück + Zelt für das Gepäckshuttle mit. Zusätzlicher Raum würde anderen Reisenden fehlen.
-- Kontrolliert vor der Abfahrt die Verkehrstüchtigkeit eures Transportmittels. Wir haben Flickzeug für den Notfall dabei, würden uns aber lieber gemeinsam in Richtung Realitätsflucht bewegen als erstmal dein zu lange im Keller vergessenes Drahteselchen frühjahrstauglich zu machen.
+**“Aber wohin mit meinem Festivalgepäck?”**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Bittet vielleicht Freunde, euer Gepäck mitzunehmen. Wenn ihr doch etwas mitnehmen wollt, wäre es schön, wenn ihr dabei minimalistisch vorgeht, damit wir die 85 km damit auch schaffen.
 
 ### <a name="Kurzfassung"></a> Kurzfassung
 **"Das ist mir alles zu viel Text!"** Sogar an dich haben wir gedacht! Hier nochmal die Kurzversion:
-- Zusammen mit dem Fahrrad zur Nation
-- Zwei Touren je Wochenende am 16. und 23.7.:
-- Freitag 10:30, 45 km ab [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen
-- Freitag 15:00, 24 km ab [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S Hennigsdorf
-- Bis zum _Donnerstag 22.7., 12:00_ hier registrieren: [Nation Fahrradtour Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSc1iLwtnX0_UrH54_iTZacpK8icAXGgiJOj23Npgyox1CRlNw/viewform)
-- Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
-- Beschriftet euer Gepäck mit Namen und Adresse
+- Zusammen mit dem Fahrrad zur Fusion
+- Eine begleitete Tour am Donnerstag den 30.7. um 10 Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
-- Telegram-Gruppe für Austausch und Fragen: [https://t.me/joinchat/OOwbQd5xRctiMTYy](https://t.me/joinchat/OOwbQd5xRctiMTYy)
+- Signal-Gruppe für Austausch und Fragen: https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9
 
 **Kommt in Fahrt mit uns! Wir freuen uns auf euch.**
+
 
 ## <a name="English"></a> English
 [Short Version](#short)
