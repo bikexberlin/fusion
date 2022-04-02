@@ -25,7 +25,7 @@ Oranienburg - Fusion: [GPX](assets/routes/Oranienburg-Fusion.gpx)
 - Zusammen mit dem Fahrrad zur Fusion
 - Eine begleitete Tour am Donnerstag den 30.7. um 10 Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
-- Signal-Gruppe für Austausch und Fragen: https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9
+- Signal-Gruppe für Austausch und Fragen: [Link](https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9)
 
 **Kommt in Fahrt mit uns! Wir freuen uns auf euch.**
 
@@ -37,7 +37,7 @@ Who wants to join us to ride with a bicycle to the Fusion festival?
 Especially in this very different year, however, it would be very important to us not to provoke overcrowded, stuffy trains and busses.
 That’s why we have come up with a medium-sporty event in a class of its own that is also almost CO2-neutral. We are offering two guided bike tour for the journey:
 
-- Thursday morning we will set off from[S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828). The route is about 85 km long.
+- Thursday morning we will set off from [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828). The route is about 85 km long.
 
 The group will be accompanied by three experienced cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. Maps.me, for example, is a good app with offline map material for Brandenburg’s dead spots.
 Oranienburg - Fusion: [GPX](assets/routes/Oranienburg-Fusion.gpx)
@@ -51,8 +51,8 @@ Oranienburg - Fusion: [GPX](assets/routes/Oranienburg-Fusion.gpx)
 ### <a name="short"></a> Short Version
 **"This is all too much text for me!"** We even thought of you! Here's the short version again:
 - Cycling to the fusion together
-- We meet Thursday 10:00 am at S Bhf Oranienburg (https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
+- We meet Thursday 10:00 am at [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
 - Route will be approximatly 85 km
-- If you have any questions please join our Signal group: https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9
+- If you have any questions please join our [Signal group:](https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9)
 
 **Get going with us! We look forward to seeing you.**
