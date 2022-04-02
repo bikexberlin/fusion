@@ -12,7 +12,7 @@ Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das da
 - Donnerstagfrüh, den 30.7. um 10 Uhr geht es vom [S Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) aus los. Die Strecke ist etwa 85 km lang!
 
 Die Gruppe wird von drei erfahrenen Radler*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
-Oranienburg - Fusion: [GPX](assets/routes/Berlin-Fusion.gpx)
+Oranienburg - Fusion: [GPX](fusion/assets/routes/Berlin-Fusion.gpx)
 
 
 
