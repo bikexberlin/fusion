@@ -20,7 +20,7 @@ Oranienburg - Fusion: [Komoot](https://www.komoot.de/tour/724634312) | [GPX](ass
 
 **“Aber wohin mit meinem Festivalgepäck?”**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Bittet vielleicht Freunde, euer Gepäck mitzunehmen. Wenn ihr doch etwas mitnehmen wollt, wäre es schön, wenn ihr dabei minimalistisch vorgeht, damit wir die 85 km damit auch gut schaffen.
 
-**"Ich hab ein Frage!?""**, meldet euch gerne in unserer [Signal Gruppe](https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9), dort könne wir Fragen beantworte und Details klären.
+**"Ich hab ein Frage!?""**, meldet euch gerne in unserer [Signal Gruppe](https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9), dort könne wir Fragen beantworten und Details klären.
 
 ### <a name="Kurzfassung"></a> Kurzfassung
 **"Das ist mir alles zu viel Text!"** Sogar an dich haben wir gedacht! Hier nochmal die Kurzversion:
@@ -57,6 +57,7 @@ Oranienburg - Fusion: [Komoot](https://www.komoot.de/tour/724634312) | [GPX](ass
 - Cycling to the fusion together
 - We meet Thursday 10:00 am at [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828)
 - Route will be approximatly 85 km
-- If you have any questions please join our [Signal group:](https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9)
+- If you have any questions please join our Signal Group: [Link](https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9)
+
 
 **Get going with us! We look forward to seeing you.**
