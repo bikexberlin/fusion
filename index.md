@@ -14,7 +14,7 @@ Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das da
 Die Gruppe wird von drei erfahrenen Radler*innen begleitet, die euch leichtfüßig ans Ziel begleiten. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
 Oranienburg - Fusion: [Komoot](https://www.komoot.de/tour/724634312) | [GPX](assets/routes/Oranienburg-Fusion.gpx)
 
-**“So sportlich bin ich nicht!”**, zweifelt ihr jetzt vielleicht. Wir sagen: Doch, bestimmt! Gemeinsam als Gruppe fahren wir in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit.
+**“So sportlich bin ich nicht!”**, zweifelt ihr jetzt vielleicht. Grundsätzlich braucht man bei 85 km und mindestens 5-6h reiner Fahrzeit eine gewisse Fitness. Gemeinsam als Gruppe fahren wir aber in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit.
 
 **“Ich fahre aber immer Meisterleistung in Rekordzeit”** Kannste! Wir veröffentlichen unsere Routen hier in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir ne*n Buddy und hau rein, wenn’s dir bei uns zu langsam wird.
 
@@ -44,7 +44,7 @@ That’s why we have come up with a medium-sporty event in a class of its own th
 The group will be accompanied by three experienced cyclists who will pedal with you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. Maps.me, for example, is a good app with offline map material for Brandenburg’s no network spots.
 Oranienburg - Fusion: [Komoot](https://www.komoot.de/tour/724634312) | [GPX](assets/routes/Oranienburg-Fusion.gpx)
 
-**“I’m not fit enough!”** you might be thinking. We say: Yes, you are! Together as a group we ride at a leisurely pace, taking pee, drink and short rest breaks wherever necessary and desirable. We want to experience at least a pleasant, at best an ultra-fun tour together, not a world-class performance in record time.
+**“A'm i fit enough?”** you might be thinking. Basically you will need a certain fitess to complete the 85km with a minimum riding time of about 5-6h. But together as a group we ride at a leisurely pace, taking pee, drink and short rest breaks wherever necessary and desirable. We want to experience at least a pleasant, at best an ultra-fun tour together, not a world-class performance in record time.
 
 **“But I always do a world-class performance in record time”** we hear you say. And you can! We publish our routes beforehand in various formats. If you want to go fast, find a buddy and hit the road when it gets too slow for you.
 
