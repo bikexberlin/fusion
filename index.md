@@ -25,7 +25,7 @@ Oranienburg - Fusion: [Komoot](https://www.komoot.de/tour/724634312) | [GPX](ass
 ### <a name="Kurzfassung"></a> Kurzfassung
 **"Das ist mir alles zu viel Text!"** Sogar an dich haben wir gedacht! Hier nochmal die Kurzversion:
 - Zusammen mit dem Fahrrad zur Fusion.
-- Eine begleitete Tour am Donnerstag den 30.7. um 10 Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
+- Eine begleitete Tour am Donnerstag den 30.6. um 10 Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
 - Signal-Gruppe für Austausch und Fragen: [Link](https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9)
 
@@ -39,7 +39,7 @@ Who wants to join us to ride with a bicycle to the Fusion festival?
 Also this year we do not want to provoke overcrowded, stuffy trains and busses on the way to Lärz.
 That’s why we have come up with a medium-sporty event in a class of its own that is also almost CO2-neutral. We are offering one guided bike tour for the journey to Fusion festival:
 
-- Thursday morning we will set off from [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828). The route is about 85 km long.
+- Thursday morning the 30th of june we will set off at 10:00 am from [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828). The route is about 85 km long.
 
 The group will be accompanied by three experienced cyclists who will pedal with you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. Maps.me, for example, is a good app with offline map material for Brandenburg’s no network spots.
 Oranienburg - Fusion: [Komoot](https://www.komoot.de/tour/724634312) | [GPX](assets/routes/Oranienburg-Fusion.gpx)
@@ -55,7 +55,7 @@ Oranienburg - Fusion: [Komoot](https://www.komoot.de/tour/724634312) | [GPX](ass
 ### <a name="short"></a> Short Version
 **"This is all too much text for me!"** We even thought of you! Here's the short version again:
 - Cycling to the fusion together.
-- We meet Thursday 10:00 am at [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
+- We meet thursday 30th of June 10:00 am at [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
 - The route will be approximatly 85 km long.
 - If you have any questions please join our Signal Group: [Link](https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9)
 
