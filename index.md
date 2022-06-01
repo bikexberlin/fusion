@@ -9,7 +9,7 @@ Wer hat Lust gemeinsam mit uns zur Fusion mit dem Fahrrad zu fahren?
 Auch in diesem Jahr wollen wir unseren Beitrag dazu leisten, keine übervollen stickigen Züge und Busse zu provozieren.
 Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das darüber hinaus auch noch beinahe CO2-neutral ist. Somit bieten wir in diesem Jahr wieder eine geführte Fahrradtour für die Anreise zum Fusion Festival an:
 
-- Donnerstagfrüh, den 30.7. um 10 Uhr geht es vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) aus los. Die Strecke ist etwa 85 km lang!
+- Donnerstagfrüh, den 30.6. um 10 Uhr geht es vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) aus los. Die Strecke ist etwa 85 km lang!
 
 Die Gruppe wird von drei erfahrenen Radler*innen begleitet, die euch leichtfüßig ans Ziel begleiten. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
 Oranienburg - Fusion: [Komoot](https://www.komoot.de/tour/724634312) | [GPX](assets/routes/Oranienburg-Fusion.gpx)
