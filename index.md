@@ -56,7 +56,7 @@ Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](asse
 ### <a name="short"></a> Short Version
 **"This is all too much text for me!"** We even thought of you! Here's the short version again:
 - Cycling to the fusion together.
-- We meet Thursday 10:00 am at [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
+- We meet Thursday 8th Sep. 10:00 am at [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
 - The route will be approximatly 87 km long.
 - luggage transport: 1 tent +1 piece of luggage (backpack, travelbag) per person
 - If you have any questions please join our Signal Group: [Link](https://signal.group/#CjQKIBZA6KfRypx3fSLy_MQDqP6DKs-QUIPDBqLpyPGAjHUUEhCXiki7sZuA_7gPZnMHGnd6)
