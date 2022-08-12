@@ -1,33 +1,34 @@
-# BikeX Fusion 2022
+# BikeX at.tension 2022
 
 [English Version](#English)
 
 ## Deutsch
 [Kurzfassung](#Kurzfassung)
 
-Wer hat Lust gemeinsam mit uns zur Fusion mit dem Fahrrad zu fahren? 
-Auch in diesem Jahr wollen wir unseren Beitrag dazu leisten, keine übervollen stickigen Züge und Busse zu provozieren.
-Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das darüber hinaus auch noch beinahe CO2-neutral ist. Somit bieten wir in diesem Jahr wieder eine geführte Fahrradtour für die Anreise zum Fusion Festival an:
+Wer hat Lust gemeinsam mit uns zur at.tension mit dem Fahrrad zu fahren? 
+In diesem Jahr wollen wir unseren Beitrag dazu leisten, keine übervollen stickigen Züge und Busse zu provozieren.
+Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das darüber hinaus auch noch beinahe CO2-neutral ist. Somit bieten wir in diesem Jahr wieder eine geführte Fahrradtour für die Anreise zur at.tension an:
 
-- Donnerstagfrüh, den 30.7. um 10 Uhr geht es vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) aus los. Die Strecke ist etwa 85 km lang!
+- Donnerstagfrüh, den 8.9. um 10 Uhr geht es vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) aus los. Die Strecke ist etwa 87 km lang!
 
 Die Gruppe wird von drei erfahrenen Radler*innen begleitet, die euch leichtfüßig ans Ziel begleiten. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
-Oranienburg - Fusion: [Komoot](https://www.komoot.de/tour/724634312) | [GPX](assets/routes/Oranienburg-Fusion.gpx)
+Oranienburg - Fusion: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](assets/routes/Oranienburg-Fusion.gpx)
 
-**“So sportlich bin ich nicht!”**, zweifelt ihr jetzt vielleicht. Grundsätzlich braucht man bei 85 km und mindestens 5-6h reiner Fahrzeit eine gewisse Fitness. Gemeinsam als Gruppe fahren wir aber in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit.
+**“So sportlich bin ich nicht!”**, zweifelt ihr jetzt vielleicht. Grundsätzlich braucht man bei 87 km und mindestens 5-6h reiner Fahrzeit eine gewisse Fitness. Gemeinsam als Gruppe fahren wir aber in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit.
 
 **“Ich fahre aber immer Meisterleistung in Rekordzeit”** Kannste! Wir veröffentlichen unsere Routen hier in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir ne*n Buddy und hau rein, wenn’s dir bei uns zu langsam wird.
 
-**“Aber wohin mit meinem Festivalgepäck?”**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Bittet vielleicht Freunde, euer Gepäck mitzunehmen. Wenn ihr doch etwas mitnehmen wollt, wäre es schön, wenn ihr dabei minimalistisch vorgeht, damit wir die 85 km damit auch gut schaffen.
+**“Aber wohin mit meinem Festivalgepäck?”**, fragt ihr euch jetzt vielleicht. 1x Gepäckstück und 1x Zelt pro Person, können wir für euch vom Treffpunkt nach Lärz transportieren (Ohne Rücktransport).
 
-**"Ich hab ein Frage!?""**, meldet euch gerne in unserer [Signal Gruppe](https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9), dort könne wir Fragen beantworten und Details klären.
+**"Ich hab ein Frage!?""**, meldet euch gerne in unserer [Signal Gruppe](https://signal.group/#CjQKIBZA6KfRypx3fSLy_MQDqP6DKs-QUIPDBqLpyPGAjHUUEhCXiki7sZuA_7gPZnMHGnd6), dort könne wir Fragen beantworten und Details klären.
 
 ### <a name="Kurzfassung"></a> Kurzfassung
 **"Das ist mir alles zu viel Text!"** Sogar an dich haben wir gedacht! Hier nochmal die Kurzversion:
-- Zusammen mit dem Fahrrad zur Fusion.
-- Eine begleitete Tour am Donnerstag den 30.7. um 10 Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
+- Zusammen mit dem Fahrrad zur at.tension.
+- Eine begleitete Tour am Donnerstag den 8.9. um 10 Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
-- Signal-Gruppe für Austausch und Fragen: [Link](https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9)
+- Gepäcktransport: 1x Gepäckstück und 1x Zelt pro Person
+- Signal-Gruppe für Austausch und Fragen: [Link](https://signal.group/#CjQKIBZA6KfRypx3fSLy_MQDqP6DKs-QUIPDBqLpyPGAjHUUEhCXiki7sZuA_7gPZnMHGnd6)
 
 **Kommt in Fahrt mit uns! Wir freuen uns auf euch.**
 
@@ -50,14 +51,14 @@ Oranienburg - Fusion: [Komoot](https://www.komoot.de/tour/724634312) | [GPX](ass
 
 **“But how will I carry my luggage?”**, you might be asking yourself. We understand. Especially on the way to the festival, the luggage situation is often a bit more voluminous. Therefore: Ask some friends if they can carry your luggage for you. If you still want to bring your own luggage on the bike please pack very minimalistic so that we can make the 85 km with it. 
 
-**"I have a question!?""**, join our [Signal group ](https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9), there we can answer questions and calrify details.
+**"I have a question!?""**, join our [Signal group ](https://signal.group/#CjQKIBZA6KfRypx3fSLy_MQDqP6DKs-QUIPDBqLpyPGAjHUUEhCXiki7sZuA_7gPZnMHGnd6), there we can answer questions and calrify details.
 
 ### <a name="short"></a> Short Version
 **"This is all too much text for me!"** We even thought of you! Here's the short version again:
 - Cycling to the fusion together.
 - We meet Thursday 10:00 am at [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
 - The route will be approximatly 85 km long.
-- If you have any questions please join our Signal Group: [Link](https://signal.group/#CjQKIPFYcyO_5vZONs3dW1M6fD4w18_IMCPjsvnYug9T5kHkEhAImTNe8Ps1Z4ZNQowcsMn9)
+- If you have any questions please join our Signal Group: [Link](https://signal.group/#CjQKIBZA6KfRypx3fSLy_MQDqP6DKs-QUIPDBqLpyPGAjHUUEhCXiki7sZuA_7gPZnMHGnd6)
 
 
 **Get going with us! We look forward to seeing you.**
