@@ -53,7 +53,7 @@ Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](asse
 
 **"I have a question!?""**, join our [Signal group ](https://signal.group/#CjQKIBZA6KfRypx3fSLy_MQDqP6DKs-QUIPDBqLpyPGAjHUUEhCXiki7sZuA_7gPZnMHGnd6), there we can answer questions and calrify details.
 
-### <a name="short"></a> Short Version
+### <a name="short"></a> short Version
 **"This is all too much text for me!"** We even thought of you! Here's the short version again:
 - Cycling to the fusion together.
 - We meet Thursday 8th Sep. 10:00 am at [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
