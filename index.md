@@ -1,13 +1,13 @@
-# BikeX to Fusion 23
+# bikeX Fusion 2023
 
 [English Version](#English)
 
 ## Deutsch
 [Kurzfassung](#Kurzfassung)
 
-Wer hat Lust gemeinsam mit uns zur FUSION mit dem Fahrrad zu fahren? 
+Wer hat Lust gemeinsam mit uns zur Fusion mit dem Fahrrad zu fahren? 
 Wir wollen unseren Beitrag dazu leisten, keine übervollen stickigen Züge und Busse zu provozieren.
-Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das darüber hinaus auch noch beinahe CO2-neutral ist. Somit bieten wir eine geführte Fahrradtour für die Anreise zur FUSION an:
+Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das darüber hinaus auch noch beinahe CO2-neutral ist. Somit bieten wir eine geführte Fahrradtour für die Anreise zur Fusion an:
 
 Start:
 
@@ -31,11 +31,11 @@ Leider können wir für die Fusion keinen Gepäcktransport anbieten, vielleicht 
 
 ### <a name="Kurzfassung"></a> Kurzfassung
 **"Das ist mir alles zu viel Text!"** Sogar an dich haben wir gedacht! Hier nochmal die Kurzversion:
-- Zusammen mit dem Fahrrad zur FUSION.
+- Zusammen mit dem Fahrrad zur Fusion.
 - Eine begleitete Tour am Mittwoch und Donnerstag den 28. und 29.6.23 um 10 Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
 - Leider ist kein Gepäcktransport zu Fusion von unserer Seite möglich
-- Telegram-Gruppe für Austausch und Fragen: https://t.me/+VUv2dQbU44ZmN2Vi
+- Telegram-Gruppe für Austausch und Fragen: [Link](https://t.me/+VUv2dQbU44ZmN2Vi)
 - oder schreibe uns an bikex@mail.de
 **Kommt in Fahrt mit uns! Wir freuen uns auf euch.**
 
@@ -43,9 +43,9 @@ Leider können wir für die Fusion keinen Gepäcktransport anbieten, vielleicht 
 ## <a name="English"></a> English
 [Short Version](#short)
 
-Who wants to join us to ride with a bicycle to FUSION festival?
+Who wants to join us to ride with a bicycle to Fusion festival?
 We do not want to provoke overcrowded, stuffy trains and busses on the way to Lärz.
-That’s why we have come up with a medium-sporty event in a class of its own that is also almost CO2-neutral. We are offering one guided bike tour for the journey to FUSION festival:
+That’s why we have come up with a medium-sporty event in a class of its own that is also almost CO2-neutral. We are offering one guided bike tour for the journey to Fusion festival:
 
 Wednesday (28.6.) and Thursday (29.06.) morning at 10 we will meet to set off from [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828). The route is about 87 km long.
 
@@ -66,7 +66,7 @@ Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](asse
 - We meet Wednesday and Thursday 28.6./29.6.  10:00 am at [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828).
 - The route will be approximatly 87 km long.
 - No luggage transport
-- If you have any questions please join our Telegram Group: https://t.me/+VUv2dQbU44ZmN2Vi
+- If you have any questions please join our Telegram Group: [Link](https://t.me/+VUv2dQbU44ZmN2Vi)
 - or write us via bikex@mail.de
 
 **Get going with us! We look forward to seeing you.**
