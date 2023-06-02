@@ -11,10 +11,9 @@ Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das da
 
 Start:
 
-Mittwoch 28.06.23 / 10Uhr vom S- Bhf Oranienburg
-Donnerstag 29.06.23 / 10Uhr vom S- Bhf Oranienburg
-
-[S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) 
+Mittwoch 28.06.23 / 10Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) 
+Donnerstag 29.06.23 / 10Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) 
+ 
 Die Strecke ist etwa 87 km lang!
 
 Die Gruppe wird von zwei bis drei erfahrenen Radler*innen begleitet, die euch leichtfüßig ans Ziel begleiten. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
