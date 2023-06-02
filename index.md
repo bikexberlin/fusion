@@ -36,7 +36,7 @@ Leider können wir für die Fusion keinen Gepäcktransport anbieten, vielleicht 
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
 - Leider ist kein Gepäcktransport zu Fusion von unserer Seite möglich
 - Telegram-Gruppe für Austausch und Fragen: https://t.me/+VUv2dQbU44ZmN2Vi
-
+- oder schreibe uns an bikex@mail.de
 **Kommt in Fahrt mit uns! Wir freuen uns auf euch.**
 
 
@@ -67,5 +67,6 @@ Oranienburg - Lärz: [Komoot](https://www.komoot.de/tour/884038344) | [GPX](asse
 - The route will be approximatly 87 km long.
 - No luggage transport
 - If you have any questions please join our Telegram Group: https://t.me/+VUv2dQbU44ZmN2Vi
+- or write us via bikex@mail.de
 
 **Get going with us! We look forward to seeing you.**
