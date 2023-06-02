@@ -11,8 +11,9 @@ Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das da
 
 Start:
 
-Mittwoch 28.06.23 / 10Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) 
-Donnerstag 29.06.23 / 10Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) 
+Mittwoch (28.06.) 10Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) 
+
+Donnerstag (29.06.23) 10Uhr vom [S-Bhf Oranienburg](https://www.openstreetmap.org/?mlat=52.75439&mlon=13.24829#map=19/52.75436/13.24828) 
  
 Die Strecke ist etwa 87 km lang!
 
