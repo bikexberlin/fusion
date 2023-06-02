@@ -6,7 +6,7 @@
 [Kurzfassung](#Kurzfassung)
 
 Wer hat Lust gemeinsam mit uns zur FUSION mit dem Fahrrad zu fahren? 
-Wirwollen unseren Beitrag dazu leisten, keine übervollen stickigen Züge und Busse zu provozieren.
+Wir wollen unseren Beitrag dazu leisten, keine übervollen stickigen Züge und Busse zu provozieren.
 Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das darüber hinaus auch noch beinahe CO2-neutral ist. Somit bieten wir eine geführte Fahrradtour für die Anreise zur FUSION an:
 
 Start:
