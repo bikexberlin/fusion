@@ -7,7 +7,7 @@
 
 Gemeinsam mit dem Rad zur Fusion fahren? 
 Eine Idee die sich bewährt hat und euch übervolle stickigen Züge und Busse vermeiden lässt.
-Begleitet uns für ein medium-sportives Event der Extraklasse, das darüber hinaus noch CO2-neutral ist. Wir bieten eine geführte Fahrradtour für die Anreise zur Fusion an:
+Begleitet uns für ein medium-sportives Event der Extraklasse, das darüber hinaus noch CO2-neutral ist. Wir bieten geführte Fahrradtouren für die Anreise zur Fusion an:
 
 Start:
 
